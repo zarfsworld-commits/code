@@ -1,0 +1,28 @@
+﻿@font-face {
+  font-family: 'Droid Serif';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/droidserif/v20/tDbK2oqRg1oM3QBjjcaDkOr4nAfcGw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Serif';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/droidserif/v20/tDbX2oqRg1oM3QBjjcaDkOr4lLz5CwOnTQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/droidserif/v20/tDbI2oqRg1oM3QBjjcaDkOr9rAA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Serif';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/droidserif/v20/tDbV2oqRg1oM3QBjjcaDkOJGiRD7OwQ.ttf) format('truetype');
+}

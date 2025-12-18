@@ -1,0 +1,16 @@
+﻿@font-face {
+  font-family: 'Anek Latin';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/aneklatin/v11/co3pmWZulTRoU4a8dqrWiajBS5ByUkvdrluH-xWG5uJTY4x-L3PuR7ApLtqh.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Anek Latin';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/aneklatin/v11/co3pmWZulTRoU4a8dqrWiajBS5ByUkvdrluH-xWG5uJTY4x-L3PuoLcpLtqh.ttf) format('truetype');
+}

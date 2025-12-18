@@ -1,0 +1,322 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * begum:
+ *   - http://typekit.com/eulas/0000000000000000774f4a35
+ *   - http://typekit.com/eulas/0000000000000000774f4a36
+ *   - http://typekit.com/eulas/0000000000000000774f4a38
+ *   - http://typekit.com/eulas/0000000000000000774f4a37
+ *   - http://typekit.com/eulas/0000000000000000774f4a39
+ *   - http://typekit.com/eulas/0000000000000000774f4a3a
+ *   - http://typekit.com/eulas/0000000000000000774f4a3c
+ *   - http://typekit.com/eulas/0000000000000000774f4a3b
+ *   - http://typekit.com/eulas/0000000000000000774f4a3e
+ *   - http://typekit.com/eulas/0000000000000000774f4a3d
+ * collier:
+ *   - http://typekit.com/eulas/00000000000000007735ce72
+ *   - http://typekit.com/eulas/00000000000000007735ce84
+ *   - http://typekit.com/eulas/00000000000000007735ce93
+ *   - http://typekit.com/eulas/00000000000000007735ce85
+ *   - http://typekit.com/eulas/00000000000000007735ce8b
+ *   - http://typekit.com/eulas/00000000000000007735ce9a
+ *   - http://typekit.com/eulas/00000000000000007735ce9b
+ *   - http://typekit.com/eulas/00000000000000007735ce9e
+ *   - http://typekit.com/eulas/00000000000000007735cea1
+ *   - http://typekit.com/eulas/00000000000000007735cea4
+ *   - http://typekit.com/eulas/00000000000000007735cea7
+ *   - http://typekit.com/eulas/00000000000000007735ceaa
+ *   - http://typekit.com/eulas/00000000000000007735cead
+ *   - http://typekit.com/eulas/00000000000000007735ceb0
+ *   - http://typekit.com/eulas/00000000000000007735ceb3
+ *   - http://typekit.com/eulas/00000000000000007735ceb5
+ *   - http://typekit.com/eulas/00000000000000007735ceb7
+ *   - http://typekit.com/eulas/00000000000000007735ceb9
+ * collier-black:
+ *   - http://typekit.com/eulas/00000000000000007735ce70
+ *   - http://typekit.com/eulas/00000000000000007735ce71
+ *   - http://typekit.com/eulas/00000000000000007735ce74
+ *   - http://typekit.com/eulas/00000000000000007735ce76
+ *   - http://typekit.com/eulas/00000000000000007735ce89
+ *   - http://typekit.com/eulas/00000000000000007735ce95
+ * termina:
+ *   - http://typekit.com/eulas/00000000000000007735b212
+ *   - http://typekit.com/eulas/00000000000000007735b216
+ *   - http://typekit.com/eulas/00000000000000007735b219
+ *   - http://typekit.com/eulas/00000000000000007735b21c
+ *   - http://typekit.com/eulas/00000000000000007735b21e
+ *   - http://typekit.com/eulas/00000000000000007735b220
+ *   - http://typekit.com/eulas/00000000000000007735b222
+ *   - http://typekit.com/eulas/00000000000000007735b224
+ *   - http://typekit.com/eulas/00000000000000007735b226
+ *
+ * © 2009-2025 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2024-12-19 10:07:20 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"termina";
+src:url("af/c7d058/00000000000000007735b212/30/l") format("woff2"),url("af/c7d058/00000000000000007735b212/30/d") format("woff"),url("af/c7d058/00000000000000007735b212/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:100;font-stretch:normal;
+}
+
+@font-face {
+font-family:"termina";
+src:url("af/8fb82c/00000000000000007735b216/30/l") format("woff2"),url("af/8fb82c/00000000000000007735b216/30/d") format("woff"),url("af/8fb82c/00000000000000007735b216/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:200;font-stretch:normal;
+}
+
+@font-face {
+font-family:"termina";
+src:url("af/3a0b27/00000000000000007735b219/30/l") format("woff2"),url("af/3a0b27/00000000000000007735b219/30/d") format("woff"),url("af/3a0b27/00000000000000007735b219/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"termina";
+src:url("af/1d76ab/00000000000000007735b21c/30/l") format("woff2"),url("af/1d76ab/00000000000000007735b21c/30/d") format("woff"),url("af/1d76ab/00000000000000007735b21c/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"termina";
+src:url("af/3e72b6/00000000000000007735b21e/30/l") format("woff2"),url("af/3e72b6/00000000000000007735b21e/30/d") format("woff"),url("af/3e72b6/00000000000000007735b21e/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"termina";
+src:url("af/275a7d/00000000000000007735b220/30/l") format("woff2"),url("af/275a7d/00000000000000007735b220/30/d") format("woff"),url("af/275a7d/00000000000000007735b220/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"termina";
+src:url("af/574117/00000000000000007735b222/30/l") format("woff2"),url("af/574117/00000000000000007735b222/30/d") format("woff"),url("af/574117/00000000000000007735b222/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"termina";
+src:url("af/3046cd/00000000000000007735b224/30/l") format("woff2"),url("af/3046cd/00000000000000007735b224/30/d") format("woff"),url("af/3046cd/00000000000000007735b224/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
+}
+
+@font-face {
+font-family:"termina";
+src:url("af/8a0f0c/00000000000000007735b226/30/l") format("woff2"),url("af/8a0f0c/00000000000000007735b226/30/d") format("woff"),url("af/8a0f0c/00000000000000007735b226/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier";
+src:url("af/076c68/00000000000000007735ce72/30/l") format("woff2"),url("af/076c68/00000000000000007735ce72/30/d") format("woff"),url("af/076c68/00000000000000007735ce72/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:100;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier";
+src:url("af/41e4cd/00000000000000007735ce84/30/l") format("woff2"),url("af/41e4cd/00000000000000007735ce84/30/d") format("woff"),url("af/41e4cd/00000000000000007735ce84/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:100;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier";
+src:url("af/b82b9c/00000000000000007735ce93/30/l") format("woff2"),url("af/b82b9c/00000000000000007735ce93/30/d") format("woff"),url("af/b82b9c/00000000000000007735ce93/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:200;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier";
+src:url("af/68c8e0/00000000000000007735ce85/30/l") format("woff2"),url("af/68c8e0/00000000000000007735ce85/30/d") format("woff"),url("af/68c8e0/00000000000000007735ce85/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:200;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier";
+src:url("af/09d22a/00000000000000007735ce8b/30/l") format("woff2"),url("af/09d22a/00000000000000007735ce8b/30/d") format("woff"),url("af/09d22a/00000000000000007735ce8b/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier";
+src:url("af/9bc96b/00000000000000007735ce9a/30/l") format("woff2"),url("af/9bc96b/00000000000000007735ce9a/30/d") format("woff"),url("af/9bc96b/00000000000000007735ce9a/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier";
+src:url("af/970d54/00000000000000007735ce9b/30/l") format("woff2"),url("af/970d54/00000000000000007735ce9b/30/d") format("woff"),url("af/970d54/00000000000000007735ce9b/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier";
+src:url("af/bafc69/00000000000000007735ce9e/30/l") format("woff2"),url("af/bafc69/00000000000000007735ce9e/30/d") format("woff"),url("af/bafc69/00000000000000007735ce9e/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier";
+src:url("af/0618de/00000000000000007735cea1/30/l") format("woff2"),url("af/0618de/00000000000000007735cea1/30/d") format("woff"),url("af/0618de/00000000000000007735cea1/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier";
+src:url("af/4cbc8b/00000000000000007735cea4/30/l") format("woff2"),url("af/4cbc8b/00000000000000007735cea4/30/d") format("woff"),url("af/4cbc8b/00000000000000007735cea4/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier";
+src:url("af/41c83b/00000000000000007735cea7/30/l") format("woff2"),url("af/41c83b/00000000000000007735cea7/30/d") format("woff"),url("af/41c83b/00000000000000007735cea7/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier";
+src:url("af/df12b2/00000000000000007735ceaa/30/l") format("woff2"),url("af/df12b2/00000000000000007735ceaa/30/d") format("woff"),url("af/df12b2/00000000000000007735ceaa/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier";
+src:url("af/c4c241/00000000000000007735cead/30/l") format("woff2"),url("af/c4c241/00000000000000007735cead/30/d") format("woff"),url("af/c4c241/00000000000000007735cead/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier";
+src:url("af/e02b03/00000000000000007735ceb0/30/l") format("woff2"),url("af/e02b03/00000000000000007735ceb0/30/d") format("woff"),url("af/e02b03/00000000000000007735ceb0/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier";
+src:url("af/fa3ce9/00000000000000007735ceb3/30/l") format("woff2"),url("af/fa3ce9/00000000000000007735ceb3/30/d") format("woff"),url("af/fa3ce9/00000000000000007735ceb3/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier";
+src:url("af/3bddfc/00000000000000007735ceb5/30/l") format("woff2"),url("af/3bddfc/00000000000000007735ceb5/30/d") format("woff"),url("af/3bddfc/00000000000000007735ceb5/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:800;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier";
+src:url("af/005ddc/00000000000000007735ceb7/30/l") format("woff2"),url("af/005ddc/00000000000000007735ceb7/30/d") format("woff"),url("af/005ddc/00000000000000007735ceb7/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:900;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier";
+src:url("af/e76432/00000000000000007735ceb9/30/l") format("woff2"),url("af/e76432/00000000000000007735ceb9/30/d") format("woff"),url("af/e76432/00000000000000007735ceb9/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier-black";
+src:url("af/4318bf/00000000000000007735ce70/30/l") format("woff2"),url("af/4318bf/00000000000000007735ce70/30/d") format("woff"),url("af/4318bf/00000000000000007735ce70/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier-black";
+src:url("af/d48b6e/00000000000000007735ce71/30/l") format("woff2"),url("af/d48b6e/00000000000000007735ce71/30/d") format("woff"),url("af/d48b6e/00000000000000007735ce71/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier-black";
+src:url("af/371938/00000000000000007735ce74/30/l") format("woff2"),url("af/371938/00000000000000007735ce74/30/d") format("woff"),url("af/371938/00000000000000007735ce74/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier-black";
+src:url("af/647b3c/00000000000000007735ce76/30/l") format("woff2"),url("af/647b3c/00000000000000007735ce76/30/d") format("woff"),url("af/647b3c/00000000000000007735ce76/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier-black";
+src:url("af/5f47e7/00000000000000007735ce89/30/l") format("woff2"),url("af/5f47e7/00000000000000007735ce89/30/d") format("woff"),url("af/5f47e7/00000000000000007735ce89/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
+}
+
+@font-face {
+font-family:"collier-black";
+src:url("af/7246e4/00000000000000007735ce95/30/l") format("woff2"),url("af/7246e4/00000000000000007735ce95/30/d") format("woff"),url("af/7246e4/00000000000000007735ce95/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:800;font-stretch:normal;
+}
+
+@font-face {
+font-family:"begum";
+src:url("af/07ddc7/0000000000000000774f4a35/30/l") format("woff2"),url("af/07ddc7/0000000000000000774f4a35/30/d") format("woff"),url("af/07ddc7/0000000000000000774f4a35/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"begum";
+src:url("af/6edc08/0000000000000000774f4a36/30/l") format("woff2"),url("af/6edc08/0000000000000000774f4a36/30/d") format("woff"),url("af/6edc08/0000000000000000774f4a36/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"begum";
+src:url("af/ef35d8/0000000000000000774f4a38/30/l") format("woff2"),url("af/ef35d8/0000000000000000774f4a38/30/d") format("woff"),url("af/ef35d8/0000000000000000774f4a38/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"begum";
+src:url("af/eb3fdc/0000000000000000774f4a37/30/l") format("woff2"),url("af/eb3fdc/0000000000000000774f4a37/30/d") format("woff"),url("af/eb3fdc/0000000000000000774f4a37/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"begum";
+src:url("af/5fea7f/0000000000000000774f4a39/30/l") format("woff2"),url("af/5fea7f/0000000000000000774f4a39/30/d") format("woff"),url("af/5fea7f/0000000000000000774f4a39/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"begum";
+src:url("af/7a1128/0000000000000000774f4a3a/30/l") format("woff2"),url("af/7a1128/0000000000000000774f4a3a/30/d") format("woff"),url("af/7a1128/0000000000000000774f4a3a/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"begum";
+src:url("af/ff4373/0000000000000000774f4a3c/30/l") format("woff2"),url("af/ff4373/0000000000000000774f4a3c/30/d") format("woff"),url("af/ff4373/0000000000000000774f4a3c/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"begum";
+src:url("af/ffc5fb/0000000000000000774f4a3b/30/l") format("woff2"),url("af/ffc5fb/0000000000000000774f4a3b/30/d") format("woff"),url("af/ffc5fb/0000000000000000774f4a3b/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"begum";
+src:url("af/895000/0000000000000000774f4a3e/30/l") format("woff2"),url("af/895000/0000000000000000774f4a3e/30/d") format("woff"),url("af/895000/0000000000000000774f4a3e/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"begum";
+src:url("af/a7f33f/0000000000000000774f4a3d/30/l") format("woff2"),url("af/a7f33f/0000000000000000774f4a3d/30/d") format("woff"),url("af/a7f33f/0000000000000000774f4a3d/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+.tk-termina { font-family: "termina",sans-serif; }
+.tk-collier { font-family: "collier",sans-serif; }
+.tk-collier-black { font-family: "collier-black",sans-serif; }
+.tk-begum { font-family: "begum",sans-serif; }
